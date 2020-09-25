@@ -1,0 +1,4 @@
+[submodule "models/tensorflow"]
+	path = models/tensorflow
+	url = https://github.com/tensorflow/models
+	branch = master
